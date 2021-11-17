@@ -2,7 +2,21 @@
 🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering.
 
 
-0001001011001100100101010011100011110100110111000100100000001101110101100000110001001011010011111111111110001000110111010010110001
-1001111110011100100011000001010100100001010011010100000100000101010001000001000010010011100011011101111101011010101000001101011010
-1000100000001100001011000001110100110111001010101010011111111110100100011010111110011101111101100110101010110010010111100011001011
-0011001110011101000100001000001100100011000010101000111010000101000100011011000101111111101010101010010001111000011011111101000100
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyy/....../yyo......:yy:............yy-......yyyyyyy-------syyyyyyyyo:.```````-/syyyyo------:yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      :yyo      .yy-            yy`      syyyyyy       syyyyyy+`            `:yyy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      :yyo      .yy-            yy`      syyyyyy       syyyyy+                .yy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      :yyo      .yy-      ++++++yy`      syyyyyy       syyyyy.      `++-       oy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      -yy+      .yy-      syyyyyyy`      syyyyyy       syyyyy.      .yy+       oy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:       ```      .yy-      `..../yy`      syyyyyy       syyyyy.      .yy+       oy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:                .yy-           :yy`      syyyyyy       syyyyy.      .yy+       oy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:                .yy-           :yy`      syyyyyy       syyyyy.      .yy+       oy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      `::-      .yy-      /////oyy`      syyyyyy       syyyyy.      .yy+       oy+      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      :yyo      .yy-      yyyyyyyy`      syyyyyy       syyyyy.      .yy+       oys+++++++yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      :yyo      .yy-      .-----yy`      -:::/yy       ::::+y.       --`       syyo/--:+yyyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      :yyo      .yy-            yy`          .yy           .yo`               /yy/      .yyyyyyyyyyyyyy
+yyyyyyyyyyyyy:      :yyo      .yy-            yy`          .yy           .yyo.            `+yyy        +yyyyyyyyyyyyy
+yyyyyyyyyyyyy/....../yyo......:yy:............yy-..........:yy...........:yyyyo:.`    `.:+yyyyy/`     -yyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyssssyyyyyyyyyys+/:/oyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
