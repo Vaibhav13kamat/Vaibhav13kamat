@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Vaibhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vaibhav13kamat&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Vaibhav13kamat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav13kamat)](https://github.com/Vaibhav13kamat/github-readme-stats)
 
 
 [website]: google.com
