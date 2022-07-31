@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 [github]:  https://github.com/Vaibhav13kamat
 
 <img src="https://komarev.com/ghpvc/?username=Vaibhav13kamat&&style=flat-square"></img>
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
