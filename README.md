@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/vaibhav_kamat_
 [linkedin]: https://www.linkedin.com/in/vaibhav-kamat-08453a1a6/
 [github]:  https://github.com/Vaibhav13kamat
+
+<img src="https://komarev.com/ghpvc/?username=Vaibhav13kamat&&style=flat-square"></img>
