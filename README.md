@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="vaibhav.co | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vaibhav.co | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vaibhav.co | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<p align="left">
+<a href="kamatvaibhav@outlook.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="gmail" height="40" width="40"/></a>
+<a href="https://https://www.linkedin.com/in/vaibhav-kamat-08453a1a6/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="40" width="40"/></a>
+<a href="https://twitter.com/vvvkkkvvvv" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="twitter" height="40" width="40" /></a>
+<a href="https://instagram.com/vaibhav_kamat_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
+</p>
 <br />
 
 
