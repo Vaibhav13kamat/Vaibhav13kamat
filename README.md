@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ## I'm a computer science engineering student!
 - 🔭 I’m currently interning at Creative Capsule.Goa!
-- 🌱 I’m currently learning Machine Learning.
+- 🤕 grinding leetcode.
 - 👯 I’m looking to collaborate with other devs.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Football⚽.
+- ⚡ I love Football⚽.
 
 ### Connect with me:
 
