@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav13kamat)](https://github.com/Vaibhav13kamat/github-readme-stats)
 
-![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/master/generated/overview.svg#gh-light-mode-only)
+  <!--# ![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/master/generated/overview.svg#gh-light-mode-only) #
 
-![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statts/master/generated/languages.svg#gh-light-mode-only)
+ # ![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statts/master/generated/languages.svg#gh-light-mode-only) # -->
 
 
 
