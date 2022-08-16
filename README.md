@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Vaibhav.  👋 
 
 ## I'm a computer science engineering student!
-- 🔭 I’m currently interning at Creative Capsule.Goa!
+- 🔭 open for internship!
 - 🤕 grinding leetcode.
-- 👯 I’m looking to collaborate with other devs.
+- 👯 Learning ML
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I love Football⚽.
 
