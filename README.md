@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/master/generated/overview.svg#gh-light-mode-only)
 
+![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statts/master/generated/languages.svg#gh-light-mode-only)
+
+
 
 
 [website]: google.com
