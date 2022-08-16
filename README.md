@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Vaibhav.  👋 
 
 ## I'm a computer science engineering student!
-- 🔭 open for internship!
+- 🔭 Looking for internship!
 - 🤕 grinding leetcode.
 - 👯 Learning ML
 - 🥅 2022 Goals: Contribute more to Open Source projects
