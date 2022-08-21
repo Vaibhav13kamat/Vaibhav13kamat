@@ -30,20 +30,24 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/vaibhav_kamat_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
 </p>
 <br />
-
-
-
-
 <br />
 <br />
 
-<img align="left" alt="Vaibhav's Github Stats" src="https://raw.githubusercontent.com/Vaibhav13kamat/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav13kamat)](https://github.com/Vaibhav13kamat/github-readme-stats)
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/Vaibhav13kamat/github-stats#gh-dark-mode-only">
+<img src="https://github.com/Vaibhav13kamat/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Vaibhav13kamat/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Vaibhav13kamat/github-stats#gh-light-mode-only">
+<img src="https://github.com/Vaibhav13kamat/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/Vaibhav13kamat/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
 
-  <!--# ![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/master/generated/overview.svg#gh-light-mode-only) #
-
- # ![](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statts/master/generated/languages.svg#gh-light-mode-only) # -->
+</div>>
 
 
 
