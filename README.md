@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitStats Overview - Light](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/Vaibhav13kamat/Github-statss/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Vaibhav13kamat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Vaibhav13kamat/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Vaibhav13kamat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Vaibhav13kamat/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 </div>
