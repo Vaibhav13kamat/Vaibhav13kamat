@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="left" alt="Vaibhav's Github Stats" src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img align="left" alt="Vaibhav's Github Stats" src="https://raw.githubusercontent.com/Vaibhav13kamat/github-stats/master/generated/overview.svg#gh-light-mode-only" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav13kamat)](https://github.com/Vaibhav13kamat/github-readme-stats)
 
