@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Vaibhav <em>Helloo</em> <img src="https://github.com/piyush168713/piyush168713/raw/main/svg/Hi.gif" height="37px" width="30px">
+### Hi there, I'm Vaibhav <img src="https://github.com/piyush168713/piyush168713/raw/main/svg/Hi.gif" height="37px" width="30px">
 
 
 ## I'm a computer science engineering student!
