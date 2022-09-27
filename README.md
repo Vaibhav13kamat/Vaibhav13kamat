@@ -13,15 +13,17 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Vaibhav <img src="https://github.com/piyush168713/piyush168713/raw/main/svg/Hi.gif" height="37px" width="30px">
+[![@vaibhav13kamat's Holopin board](https://holopin.io/api/user/board?user=vaibhav13kamat)](https://holopin.io/@vaibhav13kamat)
 
 
-## I'm a computer science engineering student!
+
+<!--## I'm a computer science engineering student!
 - 🔭 Intern at CREATIVE CAPSULE.
 - 🤕 grinding leetcode.
 - 👯 Learning ML
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I Love Football⚽.
-
+-->
 ### Connect with me:
 
 <p align="left">
@@ -54,7 +56,6 @@ Here are some ideas to get you started:
 [github]:  https://github.com/Vaibhav13kamat
 
 <img src="https://komarev.com/ghpvc/?username=Vaibhav13kamat&&style=flat-square"></img>
-[![@vaibhav13kamat's Holopin board](https://holopin.io/api/user/board?user=vaibhav13kamat)](https://holopin.io/@vaibhav13kamat)
 
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
