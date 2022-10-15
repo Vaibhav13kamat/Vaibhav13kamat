@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <p align="center">
-<a href="kamatvaibhav@outlook.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="gmail" height="40" width="40"/></a>
+<a href="mailto:kamatvaibhav@outlook.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="gmail" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/vaibhav-kamat-08453a1a6/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="40" width="40"/></a>
 <a href="https://twitter.com/vvvkkkvvvv" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="twitter" height="40" width="40" /></a>
 <a href="https://instagram.com/vaibhav_kamat_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[website]: google.com
+[website]: vaibhavkamat.me
 [twitter]: https://twitter.com/vvvkkkvvvv
 [instagram]: https://instagram.com/vaibhav_kamat_
 [linkedin]: https://www.linkedin.com/in/vaibhav-kamat-08453a1a6/
