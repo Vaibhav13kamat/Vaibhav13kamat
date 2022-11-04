@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤕 grinding leetcode.
 - 👯 Learning ML
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ I Love Football⚽.
+- ⚽ Loves Football⚽.
 
 ### Connect with me:
 
