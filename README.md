@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 
 
 ## I'm a computer science engineering student!
-- 🔭 Intern at CREATIVE CAPSULE.
-- 🤕 grinding leetcode.
-- 👯 Learning ML
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭  EX Intern at CREATIVE CAPSULE.
+- 🤕 Wannabe Game dev
+- 🥅 2023 Goals: get a Job In the gaming Industry
 - ⚽ Loves Football⚽.
 
 
