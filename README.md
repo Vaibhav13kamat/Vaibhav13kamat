@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm a Computer Science Engineering Graduate !!
 - 🔭 EX Intern at CREATIVE CAPSULE.
 - 🎮 Wannabe Game dev
-- 🥅 2023 Goals: get a Job In the gaming Industry
+- 🥅 2024 Goals: learn, Learn and learn more
 - ⚽ Loves Football⚽.
 
 
