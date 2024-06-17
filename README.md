@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ## I'm a Computer Science Engineering Graduate !!
-- 🔭 EX Intern at CREATIVE CAPSULE.
+- 🔭 Intern at Mograsys Systems
 - 🎮 Wannabe Game dev
 - 🥅 2024 Goals: learn, Learn and learn more
 - ⚽ Loves Football⚽.
